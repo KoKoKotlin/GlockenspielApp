@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Songlist</string>
+    <string name="btnAddName">Add Song</string>
+
+    <string name="fileAddDialogHintName">song name</string>
+    <string name="fileAddDialogBtnTxt">Choose File</string>
+    <string name="fileDialogTitle">Choose Song</string>
+    <string name="fileDialogSaveBtn">Save</string>
+    <string name="midiChooserTitle">Select a midi file!</string>
+    <string name="errorFileDialog">No file or no name present!</string>
+
+    <string name="cancel">Cancel</string>
+</resources>
